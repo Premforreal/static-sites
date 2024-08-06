@@ -2,6 +2,7 @@ backend:
   name: github
   repo: premkumar-meta/static-sites
   branch: main
+  open_authoring: true
   base_url: https://api.staging.proptoll.com #http://localhost:8080
   auth_endpoint: /api/auth
 
